@@ -67,7 +67,6 @@ function addItem() {
 function reverseNumber() {
 
     let a = '';
-    let i = 0;
     let index = inputValEl.value.length - 1;
 
     do {
